@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.exe.config
+C:\Users\marco\source\repos\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.exe
+C:\Users\marco\source\repos\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.pdb
+C:\Users\marco\source\repos\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.exe
+C:\Users\marco\source\repos\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.pdb
+E:\Programas en C#\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.exe.config
+E:\Programas en C#\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.exe
+E:\Programas en C#\ColeccionesBYteArray\bin\Debug\ColeccionesBYteArray.pdb
+E:\Programas en C#\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.csprojAssemblyReference.cache
+E:\Programas en C#\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.csproj.CoreCompileInputs.cache
+E:\Programas en C#\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.exe
+E:\Programas en C#\ColeccionesBYteArray\obj\Debug\ColeccionesBYteArray.pdb
